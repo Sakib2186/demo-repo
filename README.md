@@ -6,3 +6,4 @@ Some Description!
  ## local development
 
  1. Open index.hrml in your browser
+ 2. Open HAHA
